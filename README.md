@@ -1,4 +1,4 @@
-# Swiggy Frontend Clone
+# Swiggy Frontend Clone With Help of Akshay Saini
 
 A fast, modern frontend clone of the Swiggy web application built using **React 19** and **Vite**. This project focuses on building a highly optimized single-page application (SPA) with a blazing-fast user experience.
 
